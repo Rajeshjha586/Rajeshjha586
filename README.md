@@ -1,4 +1,5 @@
-<h2> Hey there! I'm Rajesh Jha.</h2>
+<h2>नमस्ते (Namaste)🙏🏻, I'm RAJESH JHA!
+  </br>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
