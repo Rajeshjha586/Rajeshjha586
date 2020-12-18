@@ -1,12 +1,13 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm RAJESH JHA!
   </br>
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/70096180/102646342-ded8b080-4189-11eb-9a30-1bfd61f5dff3.gif" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
