@@ -1,5 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm RAJESH JHA!
   </br>
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
