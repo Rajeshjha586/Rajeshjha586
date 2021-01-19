@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm RAJESH JHA!
   </br>
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/70096180/102646342-ded8b080-4189-11eb-9a30-1bfd61f5dff3.gif" />
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/70096180/105072372-beaf5080-5aab-11eb-880d-2af3f90c2219.gif" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -45,7 +45,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://rajeshjha586.github.io/MyPortfolio/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-www.rajeshjha.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://rajeshjha586.github.io/iamrajesh-myportfolio/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-www.rajeshjha.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/rajesh-jha-923291150/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rajesh%20Jha-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/RajeshJ68495852"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Rajeshjha-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:jharajesh035@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jharajesh035@gmail.com-blue?style=flat-square&logo=gmail"></a>
